@@ -4,6 +4,6 @@ gemspec
 group :development do
   gem 'pry'
   gem 'rake'
-  gem 'sqlite3', '~> 1.6.0'
+  gem 'sqlite3', '~> 1.6.2'
   gem 'test-unit'
 end
