@@ -1,19 +1,19 @@
 PATH
   remote: .
   specs:
-    acts_as_commentable (7.2.0)
-      activerecord (~> 7.2.0)
+    acts_as_commentable (8.0.0)
+      activerecord (~> 8.0.0)
 
 GEM
   remote: http://rubygems.org/
   specs:
-    activemodel (7.2.2.1)
-      activesupport (= 7.2.2.1)
-    activerecord (7.2.2.1)
-      activemodel (= 7.2.2.1)
-      activesupport (= 7.2.2.1)
+    activemodel (8.0.2)
+      activesupport (= 8.0.2)
+    activerecord (8.0.2)
+      activemodel (= 8.0.2)
+      activesupport (= 8.0.2)
       timeout (>= 0.4.0)
-    activesupport (7.2.2.1)
+    activesupport (8.0.2)
       base64
       benchmark (>= 0.3)
       bigdecimal
@@ -25,6 +25,7 @@ GEM
       minitest (>= 5.1)
       securerandom (>= 0.3)
       tzinfo (~> 2.0, >= 2.0.5)
+      uri (>= 0.13.1)
     ast (2.4.2)
     base64 (0.2.0)
     benchmark (0.4.1)
@@ -77,6 +78,7 @@ GEM
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     unicode-display_width (2.5.0)
+    uri (1.0.3)
 
 PLATFORMS
   ruby
