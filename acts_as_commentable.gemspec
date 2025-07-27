@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name        = 'acts_as_commentable'
-  s.version     = '7.2.0'
+  s.version     = '8.0.0'
   s.summary     = 'Plugin/gem that provides comment functionality'
   s.description = 'Plugin/gem that provides comment functionality'
 
@@ -40,5 +40,5 @@ Gem::Specification.new do |s|
 
   # Dependencies
 
-  s.add_dependency 'activerecord', '~> 7.2.0'
+  s.add_dependency 'activerecord', '~> 8.0.0'
 end
