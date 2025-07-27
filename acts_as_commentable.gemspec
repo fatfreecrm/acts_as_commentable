@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.summary     = 'Plugin/gem that provides comment functionality'
   s.description = 'Plugin/gem that provides comment functionality'
 
-  s.required_ruby_version = '>= 3.1.0'
+  s.required_ruby_version = '>= 3.2.0'
   s.required_rubygems_version = Gem::Requirement.new('>= 0') if s.respond_to? :required_rubygems_version=
 
   s.license = 'MIT'
