@@ -11,7 +11,9 @@ commentable models.
 
 Add the following line to your Gemfile
 
-  gem 'acts_as_commentable', git: 'git@github.com:fatfreecrm/acts_as_commentable.git'
+  gem 'acts_as_commentable2'
+
+This should be a drop in replacement for acts_as_commentable, with only the package name changed and dependencies improved.
 
 Choose the appropriate tag for your rails version.
  
