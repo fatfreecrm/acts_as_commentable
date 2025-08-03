@@ -7,7 +7,7 @@ a Comment model and handles the plumbing between that model and any models that 
 commentable models.
 
 
-== Installation :
+== Installation
 
 Add the following line to your Gemfile
 
@@ -18,7 +18,7 @@ Choose the appropriate tag for your rails version.
 == Generator
 
 
-=== Rails 3+
+=== Rails
 
   rails g comment
 
