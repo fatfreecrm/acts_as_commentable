@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name        = 'acts_as_commentable2'
-  s.version     = '7.2.0'
+  s.version     = '7.2.0.1'
   s.summary     = 'Plugin/gem that provides comment functionality'
   s.description = 'Plugin/gem that provides comment functionality'
 
