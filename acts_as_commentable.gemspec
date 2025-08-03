@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |s|
-  s.name        = 'acts_as_commentable'
+  s.name        = 'acts_as_commentable2'
   s.version     = '7.2.0'
   s.summary     = 'Plugin/gem that provides comment functionality'
   s.description = 'Plugin/gem that provides comment functionality'
@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.license = 'MIT'
 
   s.authors  = ['Cosmin Radoi, Jack Dempsey, Xelipe, Chris Eppstein']
-  s.email    = 'unknown@juixe.com'
+  s.email    = 'daniel.oconnor@gmail.com'
   s.homepage = 'http://www.juixe.com/techknow/index.php/2006/06/18/acts-as-commentable-plugin/'
 
   s.files = [
