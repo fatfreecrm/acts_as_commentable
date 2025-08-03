@@ -3,8 +3,8 @@
 Gem::Specification.new do |s|
   s.name        = 'acts_as_commentable2'
   s.version     = '7.2.0.1'
-  s.summary     = 'Plugin/gem that provides comment functionality'
-  s.description = 'Plugin/gem that provides comment functionality'
+  s.summary     = 'Plugin/gem that provides comment functionality, forked from the upstream acts_as_commentable for modern rails'
+  s.description = 'Plugin/gem that provides comment functionality, forked from the upstream acts_as_commentable for modern rails'
 
   s.required_ruby_version = '>= 3.1.0'
   s.required_rubygems_version = Gem::Requirement.new('>= 0') if s.respond_to? :required_rubygems_version=
