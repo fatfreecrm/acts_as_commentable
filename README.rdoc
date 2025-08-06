@@ -11,7 +11,7 @@ commentable models.
 
 Add the following line to your Gemfile
 
-  gem 'acts_as_commentable2'
+  gem 'acts_as_commentable2', require: 'acts_as_commentable'
 
 This should be a drop in replacement for acts_as_commentable, with only the package name changed and dependencies improved.
 
