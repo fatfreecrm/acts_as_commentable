@@ -72,7 +72,7 @@ GEM
       prism (~> 1.4)
     ruby-progressbar (1.13.0)
     securerandom (0.4.1)
-    sqlite3 (2.7.3)
+    sqlite3 (2.7.4)
       mini_portile2 (~> 2.8.0)
     test-unit (3.7.0)
       power_assert
@@ -92,7 +92,7 @@ DEPENDENCIES
   pry
   rake
   rubocop
-  sqlite3 (~> 2.7.3)
+  sqlite3 (~> 2.7.4)
   test-unit
 
 BUNDLED WITH
