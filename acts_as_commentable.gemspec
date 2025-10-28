@@ -40,5 +40,5 @@ Gem::Specification.new do |s|
 
   # Dependencies
 
-  s.add_dependency 'activerecord', '~> 8.0.0'
+  s.add_dependency 'activerecord', '>= 8.0', '< 8.2'
 end
