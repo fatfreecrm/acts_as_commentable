@@ -7,6 +7,6 @@ group :development do
   gem 'pry'
   gem 'rake'
   gem 'rubocop'
-  gem 'sqlite3', '~> 2.8.0'
+  gem 'sqlite3', '~> 2.8.1'
   gem 'test-unit'
 end
