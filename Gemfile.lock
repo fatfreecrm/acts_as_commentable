@@ -78,7 +78,7 @@ GEM
     securerandom (0.4.1)
     sqlite3 (2.9.0)
       mini_portile2 (~> 2.8.0)
-    test-unit (3.7.6)
+    test-unit (3.7.7)
       power_assert
     timeout (0.6.0)
     tzinfo (2.0.6)
